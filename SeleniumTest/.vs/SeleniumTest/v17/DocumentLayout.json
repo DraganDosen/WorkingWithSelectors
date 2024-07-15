@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\draga\\Downloads\\SeleniumTest - Copy\\SeleniumTest - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A9DBFD-B30F-4868-9A90-CDB27BB45445}|SeleniumTest.csproj|c:\\users\\draga\\downloads\\seleniumtest - copy\\seleniumtest - copy\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A9DBFD-B30F-4868-9A90-CDB27BB45445}|SeleniumTest.csproj|solutionrelative:paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paths.cs",
+              "DocumentMoniker": "C:\\Users\\draga\\Downloads\\SeleniumTest - Copy\\SeleniumTest - Copy\\Paths.cs",
+              "RelativeDocumentMoniker": "Paths.cs",
+              "ToolTip": "C:\\Users\\draga\\Downloads\\SeleniumTest - Copy\\SeleniumTest - Copy\\Paths.cs",
+              "RelativeToolTip": "Paths.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:21:55.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
